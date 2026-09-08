@@ -11,7 +11,7 @@ I've been building software since 2014 across fintech, big ticketing, creator ec
 - Contributor to webpack
 - Contributor to Parcel
 - Contributor to Firebase Cloud Messaging (FCM)
-- Maintainer of react-use-is-online
+- Maintainer of react-use-is-online and useHealthCheck.
 
 ### Things I enjoy building
 
